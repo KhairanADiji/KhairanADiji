@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KhairanADiji
-- 👀 I’m interested in becoming a competent front end web deveoper in five months.
-- 🌱 I’m currently learning HTML, CSS and Javascript.
+- 👋 Hi, I’m KHAIRAN.
+- 👀 I'm a Junior web developer still building my tech stack. 
+- 🌱 I’m currently learning Javascript.
 - 💞️ I’m really new to this, but i hope to make acquaintances that can help make my dev journey easier!
 
 <!---
